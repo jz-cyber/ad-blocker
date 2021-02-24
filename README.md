@@ -1,2 +1,2 @@
 # ad-blocker
-f
+creating dd-wrt adblocker list
